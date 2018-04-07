@@ -5,7 +5,7 @@ My configuration of i3wm
 save it
 and replace your config into .config/i3.
 # If you have a default config of i3
-cd .config/i3 and put file into this directory.
+cd .config/i3 and replace file into this directory.
 
 # For Polypar
 Saver your config.
