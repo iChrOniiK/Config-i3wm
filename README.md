@@ -1,19 +1,13 @@
 # i3wm
-My configuration of i3wm
-To launch application I use Rofi.
-For put a walpaper I use Feh.
-Polybar to have a aditionel module in my i3.
+Ma configuration pour l'interface graphique i3wm
+Pour lancer et gérer les applications, j'utilise rofi et j'ai ajouté aussi ma config polybar.
+Pour mettre un fond d'écran, j'utilise le module "feh".
 
 # If you have config i3
-save it
-and replace your config into .config/i3.
-# If you have a default config of i3
-cd .config/i3 and replace file into this directory.
+sauvegarder vos fichier pour ne pas écraser votre propre config et ensuite remplacer votre config actuelle dans .config/i3/ remplacer le config.
+Sinon vous pouvez remplacer directement la configuration de base si vous n'avez votre propre configuration.
 
-Press Win + Shift + R for reload your interface.
+Pour polybar c'est le meme principe soit vous sauvegarder votre configuration actuelle sinon vous la remplacer directement dans
+.config/polybar/config
 
-# For Polypar
-Saver your config.
-Put file into this directory.
-# For rofi
-Create directory if doesn't exist and put file into.
+Pour rofi je vous met le mien, mais je vous conseille d'aller télécharger la version officiel et le theme que j'utilise et un des themes qui est par défault dans la liste des themes proposé.
