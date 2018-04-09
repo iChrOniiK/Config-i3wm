@@ -1,3 +1,7 @@
+# Pour installer i3 par défault avec quelque module de base.
+Fedora 27.
+sudo dnf install i3 i3status dmenu i3lock xbacklight feh
+
 # Module que j'utilise pour mon i3wm.
 Ma configuration pour l'interface graphique i3wm
 Pour lancer et gérer les applications, j'utilise rofi et j'ai ajouté aussi ma config polybar.
