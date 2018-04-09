@@ -1,9 +1,9 @@
-# i3wm
+# Module que j'utilise pour mon i3wm.
 Ma configuration pour l'interface graphique i3wm
 Pour lancer et gérer les applications, j'utilise rofi et j'ai ajouté aussi ma config polybar.
 Pour mettre un fond d'écran, j'utilise le module "feh".
 
-# If you have config i3
+# Information.
 sauvegarder vos fichier pour ne pas écraser votre propre config et ensuite remplacer votre config actuelle dans .config/i3/ remplacer le config.
 Sinon vous pouvez remplacer directement la configuration de base si vous n'avez votre propre configuration.
 
